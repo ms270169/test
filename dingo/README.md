@@ -70,7 +70,7 @@ The following files are used:
 
 ... and for Angular 2:
 
-* [app.components.ts](src/angular2/app.component.ts): Angular 2 component *AppComponent*  
+* [app.components.ts](src/angular2/app/app.component.ts): Angular 2 component *AppComponent*  
   Angular applications are made up of components. A component is the combination of an HTML template
   and a component class that controls a portion of the screen.
   This component is used to replace the content of the *my-app* selector element in [index.html](public/index.html)  
@@ -209,7 +209,7 @@ Create the directory **src** and all files and subdirectories inside
 using the project file structure shown above.
 
 Create the project files 
-[index.js](public/index.js), 
+[index.html](public/index.html), 
 [styles.css](public/styles.css) and 
 inside the directory **public** using the project file structure shown above.
 
@@ -229,7 +229,7 @@ the command `tsc` from the Node.js module *typescript* is used.
 This tool looks for a configuration file *tsconfig.json*, before it starts to transform all *.ts* files
 which can be found in the project directory (and the subdirectories).
 
-Create the file [tsconfig.json](tsconfig.json) in the project base folder
+Create the file [tsconfig.json](src/tsconfig.json) in the project base folder
 
 ### Configure Gulp.js building tool
 
@@ -248,7 +248,7 @@ Open Netbeans Project **Properties** (right mouse click on project) and set...
 * Catagory **Run**:
 
     * Run As: **Node.js Application**
-    * Start File: **<project-dir>/src/server.js**
+    * Start File: **\<project-dir\>/src/server.js**
     * Run Browser: selected
         * Start file: **index.html**
         * Project URL: **http://localhost:8080**
