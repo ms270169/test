@@ -133,7 +133,7 @@ To do (on Linux OS) ...
 1. open shell and clone git repository  
   `git clone <repository-url>`
 2. change working directory to project and install node modules  
-  `cd <project-dir>`  
+  `cd <project-dir>/dingo`  
   `npm install`
 3. Build the project (transpiling TypeScript files)  
   `./node_modules/gulp/bin/gulp.js` or `gulp` (if gulp is installed as global module)
