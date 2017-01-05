@@ -44,7 +44,7 @@ project ---- public ---- (app) ---- (app.component.js)
          |           |              (main.js.map)
          |            -- index.html
          |               styles.css
-         |               system.config.js
+         |               systemjs.config.js
          |
           -- src ---- angular2 ---- app ---- app.component.ts
          |         |                         app.module.ts
@@ -81,7 +81,7 @@ The following files are used:
 * [main.ts](src/angular2/app/main.ts): Start of Angular 2 application  
   This file is used to bootstrap the Angular 2 application.  
   See also [https://angular.io/docs/ts/latest/guide/ngmodule.html#!#bootstrap](https://angular.io/docs/ts/latest/guide/ngmodule.html#!#bootstrap)
-* [system.config.js](public/system.config.js): systemjs configuration (dynamic module loader)
+* [systemjs.config.js](public/systemjs.config.js): systemjs configuration (dynamic module loader)
 
 -------------------------------------------------------------
 
