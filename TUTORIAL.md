@@ -1,17 +1,23 @@
 # Agular 2 Earwig Tutorial
 
-* [Learning Angular 2](https://angular.io/docs/ts/latest/guide/learning-angular.html)
-* [Angular 2 architecture](https://angular.io/docs/ts/latest/guide/architecture.html)
-* [The Angular 2 root module](https://angular.io/docs/ts/latest/guide/appmodule.html)
-* [Angular 2 components] (http://learnangular2.com/components/)
-* [Displaying Data with Angular 2](https://angular.io/docs/ts/latest/guide/displaying-data.html)
 
 
 Subchapter | Original source  
 -----------|-----------------  
-**[Components](#components)** | [http://learnangular2.com/components/](http://learnangular2.com/components/)  
-**[Inputs](#inputs-input)** | [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)  
-**[Outputs](#outputs-output)** | [http://learnangular2.com/outputs/](http://learnangular2.com/outputs/)  
+**[Naming-conventions](#nameing-conventions)** | How to name classes, files, folders, ...
+**[New folders and separate files for each class](new-folders-and-spearate-files-for-each-class)** | What's to do if you use a single file for each class...
+
+Which sites and tutorials should be handled before:
+
+* [Learning Angular 2](https://angular.io/docs/ts/latest/guide/learning-angular.html)
+* [Angular 2 architecture](https://angular.io/docs/ts/latest/guide/architecture.html)
+* [The Angular 2 root module](https://angular.io/docs/ts/latest/guide/appmodule.html)
+
+Which sites and tutorials are handled by this site: 
+
+* [Angular 2 components] (http://learnangular2.com/components/)
+* [Displaying Data with Angular 2](https://angular.io/docs/ts/latest/guide/displaying-data.html)
+
 
 --------------------------------------------------------------------
 
