@@ -2,10 +2,10 @@
 
 
 
-Subchapter | Original source  
+Subchapter | Description 
 -----------|-----------------  
-**[Naming-conventions](#nameing-conventions)** | How to name classes, files, folders, ...
-**[New folders and separate files for each class](new-folders-and-spearate-files-for-each-class)** | What's to do if you use a single file for each class...
+**[Naming-conventions](#naming-conventions)** | How to name classes, files, folders, ...
+**[New folders and separate files for each class](#new-folders-and-spearate-files-for-each-class)** | What's to do if you use a single file for each class...
 
 Which sites and tutorials should be handled before:
 
