@@ -5,7 +5,7 @@ Original source: [http://learnangular2.com/](http://learnangular2.com/)
 Chapter:
 
 * Components: [http://learnangular2.com/components/](http://learnangular2.com/components/)
-* [Inputs](#Inputs): [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)
+* [Inputs](#inputs-input): [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)
 
 --------------------------------------------------------------------
 
