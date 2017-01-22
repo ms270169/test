@@ -5,8 +5,8 @@ Original source: [http://learnangular2.com/](http://learnangular2.com/)
 Subchapter | Original source  
 --------|-----------------  
 **[Components](#components)** | [http://learnangular2.com/components/](http://learnangular2.com/components/)  
-**[Inputs](inputs-inputs)** | [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)  
-**[Outputs](output-outputs)** | [http://learnangular2.com/outputs/](http://learnangular2.com/outputs/)  
+**[Inputs](#input-inputs)** | [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)  
+**[Outputs](#output-outputs)** | [http://learnangular2.com/outputs/](http://learnangular2.com/outputs/)  
 
 
 ## Components
