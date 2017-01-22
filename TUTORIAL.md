@@ -78,7 +78,7 @@ In this project we want a separate file for each class.
 We want also try out how to use multiple folders in the `src/angular2` directory,
 in order to support a good folder structure in our project.
 
-We create the folder [src/angular2/shared] and the class file 
+We create the folder [src/angular2/shared](src/angular2/shared) and the class file 
 [hero.ts](src/angular2/shared/hero.ts) inside this folder.
 
 Each new folder needs some configuration lines in the file [systemjs.config.js](public/systemjs.config.js).  
