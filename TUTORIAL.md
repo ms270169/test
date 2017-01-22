@@ -2,10 +2,13 @@
 
 Original source: [http://learnangular2.com/](http://learnangular2.com/)
 
-Chapter:
+Chapter | Original source 
+--------|-----------------
+[Components](#components) | [http://learnangular2.com/components/](http://learnangular2.com/components/)
 
-* Components: [http://learnangular2.com/components/](http://learnangular2.com/components/)
-* [Inputs](#inputs-input): [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)
+
+* **[Components](#components):** [http://learnangular2.com/components/](http://learnangular2.com/components/)
+* **[Inputs](#inputs-input):** [http://learnangular2.com/inputs/](http://learnangular2.com/inputs/)
 
 --------------------------------------------------------------------
 
@@ -22,7 +25,7 @@ through both custom elements and attributes that add functionality to our existi
 Here’s a simple [Component](https://angular.io/docs/ts/latest/api/core/index/Component-decorator.html) 
 that renders our name, and a button that triggers a method to print our name to the console:
 
-```typescript
+```javascript
 import { Component } from '@angular/core';
 
 @Component({
@@ -60,7 +63,7 @@ to render information about that user:
 
 So, we add an `@Input` binding to `user`:
 
-```typescript
+```javascript
 import { Component, Input } from '@angular/core';
 
 @Component({
